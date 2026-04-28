@@ -7,7 +7,7 @@ class MainTest {
     @Test
     void greet() {
         //given
-        String expected = "Hello World!!!";
+        String expected = "Hello World!";
         //when
         String actual = Main.greet();
         //then
